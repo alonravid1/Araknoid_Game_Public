@@ -6,3 +6,4 @@ In this project I build a complete gameLevel based on the [1986 video gameLevel]
 step by step, expanding it with every assingment.
 
 Due to the fact that the original project contained some sensitive information in every commit, I had to remove it all and reupload the project without past commits.
+To build the java files properly, you would need to use ant from Ant Apache. Afterwards simply run the Ass6Game.java file and the game will start.
